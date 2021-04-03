@@ -14,7 +14,7 @@ namespace GrausCF
             double multiplicacao = 1.8; 
             double soma = 32; 
 
-            Console.WriteLine("A conversão do valor pra °F é: " + c * multiplicacao + soma);
+            Console.WriteLine("A conversão do valor pra °F é: " + (c * multiplicacao + soma));
         }
     }
 }
